@@ -1,10 +1,13 @@
 # Actividad 02 · Variante de un algoritmo genético para el agente viajero
 
-**Alumnos:** Víctor Manuel Santos Martínez (matrícula 253220020) · Jessica Melani Romero Lora (matrícula 253220116)
-**Materia:** Algoritmos Evolutivos — Maestría en Inteligencia Artificial
-**Docente:** Dr. Jaime Aguilar Ortiz
-**Actividad:** Actividad 02 — Variante del agente viajero con opciones diferentes de las siete etapas
-**Periodo:** septiembre–diciembre de 2026
+| | |
+|---|---|
+| **Alumnos** | Víctor Manuel Santos Martínez — matrícula 253220020<br>Jessica Melani Romero Lora — matrícula 253220116 |
+| **Materia** | Algoritmos Evolutivos — Maestría en Inteligencia Artificial |
+| **Docente** | Dr. Jaime Aguilar Ortiz |
+| **Actividad** | Actividad 02 — Variante del agente viajero con opciones diferentes de las siete etapas |
+| **Periodo** | Septiembre–diciembre de 2026 |
+| **Institución** | Universidad Politécnica Metropolitana de Hidalgo |
 
 ## Descripción de la actividad
 
